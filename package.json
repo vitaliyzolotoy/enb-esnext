@@ -1,0 +1,28 @@
+{
+  "name": "enb-esnext",
+  "version": "0.1.0",
+  "description": "enb esnext tech",
+  "keywords": [
+    "enb",
+    "es6"
+  ],
+  "author": {
+    "name": "Vitaly Zolotoy",
+    "email": "vitaliyzolotoy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zolotoy/enb-esnext.git"
+  },
+  "dependencies": {
+    "vow": "^0.4.9",
+    "vow-fs": "^0.3.4",
+    "inherit": "^2.2.2",
+    "concat-with-sourcemaps": "^1.0.2",
+    "esnext": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
